@@ -8,11 +8,25 @@
 
 ## Notes
 
+### OSC
+
+OSC, or OpenSoundControl, is a data transport specification for realtime message communication among applications and hardware. "OSC can be understood as a more flexible alternative to MIDI".
+
+#### Questions
+
+#### Sources
+
+https://opensoundcontrol.stanford.edu/
+
 ### Pkl
 
 Pkl doubles as a programming language and a configuration language.
 
-#### How it works:
+#### Sources
+
+https://www.youtube.com/watch?v=dj-nspfpX_A
+
+#### How it works
 
 You can think of a `.pkl` file as a single `{}` situation in `.json`
 
