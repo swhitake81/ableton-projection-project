@@ -1,4 +1,0 @@
-- [user_profile.md](user_profile.md) — User is a musician + software dev exploring music/code intersection
-- [feedback_tone.md](feedback_tone.md) — Prefers direct mentorship tone (Robert Gass character), nudge toward right questions
-- [project_vision.md](project_vision.md) — Refined vision: middleware layer between IDE, Sonic Pi, and Ableton; it's a message-passing problem
-- [project_next_steps.md](project_next_steps.md) — Research action items: investigate Sonic Pi source, Ableton listeners, map protocol boundaries
